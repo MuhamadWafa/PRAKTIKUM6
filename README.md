@@ -190,3 +190,6 @@ Daftar Nilai
 ## screenshout output VSC
 ![Screenshot 2024-11-18 233403](https://github.com/user-attachments/assets/70fdc8bb-81e3-4287-9282-39a1ef2a83e5)
 
+## DAN HASIL FLOWCHARTNYA
+![WhatsApp Image 2024-11-18 at 22 52 15_4f888af6](https://github.com/user-attachments/assets/28cd0bb4-f1a1-4e00-a805-bb106b43fe42)
+
