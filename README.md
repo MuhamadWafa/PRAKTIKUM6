@@ -1,4 +1,4 @@
-# Labpy.05/Pratikum06
+# Labpy.06/Pratikum06
 # NAMA  = MUHAMAD WAFA MUFIDA ZULFI
 # NIM   = 312410334
 # KELAS = TI.24.A4
